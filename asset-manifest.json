@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/donationsite/static/css/main.72fc69a0.css",
+    "main.js": "/donationsite/static/js/main.314ffef5.js",
+    "static/js/453.c1cba0bd.chunk.js": "/donationsite/static/js/453.c1cba0bd.chunk.js",
+    "static/media/newhome.png": "/donationsite/static/media/newhome.26f051c3888955330fed.png",
+    "static/media/d02.1.png": "/donationsite/static/media/d02.1.9a855fd033d443c91798.png",
+    "static/media/cause_img_3.png": "/donationsite/static/media/cause_img_3.c031c57ac9afc71e1fe7.png",
+    "static/media/cause_img_2.png": "/donationsite/static/media/cause_img_2.8c1d2a1b3f5a6b0746f6.png",
+    "static/media/cause_img_1.png": "/donationsite/static/media/cause_img_1.6a7d4c8ebe112efaa724.png",
+    "static/media/cause_img_4.png": "/donationsite/static/media/cause_img_4.f4d50d69b0b12da6bf74.png",
+    "index.html": "/donationsite/index.html",
+    "main.72fc69a0.css.map": "/donationsite/static/css/main.72fc69a0.css.map",
+    "main.314ffef5.js.map": "/donationsite/static/js/main.314ffef5.js.map",
+    "453.c1cba0bd.chunk.js.map": "/donationsite/static/js/453.c1cba0bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72fc69a0.css",
+    "static/js/main.314ffef5.js"
+  ]
+}
